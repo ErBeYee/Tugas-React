@@ -38,7 +38,7 @@ function App() {
         Harga={"1.200.000"}
         Fasilitas={"Ruang Tamu terpisah,Bathtub mewah"}
       />
-      <Footer />
+      <Footer Nama={"BillHaven"}/>
     </>
   );
 }
