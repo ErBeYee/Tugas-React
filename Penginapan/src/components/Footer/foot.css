@@ -1,0 +1,8 @@
+.ft {
+  background-color: #2929a3;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}

@@ -1,0 +1,28 @@
+ul li {
+  list-style: none;
+  margin-top: 10px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+li {
+  font-size: 17px;
+}
+.btn {
+  background-color: rgba(132, 0, 255, 0.716);
+  font-size: 17px;
+  font-weight: bold;
+  width: 80px;
+  padding: 5px;
+  padding-left: 18px;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin-bottom: 18px;
+  margin-top: 15px;
+}
+.knt {
+  display: flex;
+  justify-content: center;
+}
+.btn span {
+    margin-left: 5px;
+}

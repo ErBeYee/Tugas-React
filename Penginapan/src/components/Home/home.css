@@ -1,0 +1,7 @@
+.hm {
+    background-color: rgb(255, 216, 165);
+    padding: 20px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
