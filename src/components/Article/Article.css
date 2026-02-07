@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.cardd{
+  width: 350px;
+  border: 1px solid #6161c6;
+  border-radius: 22px;
+  margin: 20px;
+  box-shadow:
+    0 0 15px rgba(92, 38, 255, 0.25),
+    0 0 40px rgba(96, 23, 252, 0.15);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+.cardd:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(92, 38, 255, 0.25);
+}
+
+.cr {
+  border: 1px solid #6161c6;
+
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 40px;
+      box-shadow:
+    0 0 15px rgba(92, 38, 255, 0.25),
+    0 0 40px rgba(96, 23, 252, 0.15);
+}
+.ce{
+  justify-content: center;
+  display: flex;
+}

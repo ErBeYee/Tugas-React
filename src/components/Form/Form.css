@@ -1,0 +1,9 @@
+.ht {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    border-radius: 5px;
+}

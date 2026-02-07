@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "jenis_kamar": "Kamar Standar",
+    "harga": 350000,
+    "fasilitas": "Wi-Fi Gratis,Kamar Mandi didalam"
+  },
+  {
+    "id": 2,
+    "jenis_kamar": "Kamar Deluxe",
+    "harga": 550000,
+    "fasilitas": "Kopi Panas Gratis,Pemandian Pantai"
+  },
+  {
+    "id": 3,
+    "jenis_kamar": "Kamar Superior",
+    "harga": 750000,
+    "fasilitas": "Balkon Pribadi,Tempat Duduk nyaman"
+  },
+  {
+    "id": 4,
+    "jenis_kamar": "Kamar Suite",
+    "harga": 1200000,
+    "fasilitas": "Ruang Tamu terpisah,Bathtub mewah"
+  }
+]

@@ -1,0 +1,11 @@
+.ab {
+    border-radius: 10px;
+    border: 1px black solid;
+    margin: 40px;
+    width: 300px;
+    padding: 20px;
+}
+.wk{
+    display: flex;
+    justify-content: center;
+}
