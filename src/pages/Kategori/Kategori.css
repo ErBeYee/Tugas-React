@@ -1,0 +1,78 @@
+.table-wrapper {
+  margin-top: 20px;
+  background: #f5f7fb;
+  padding: 15px;
+  border-radius: 12px;
+}
+
+.kategori-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.kategori-table thead {
+  background: #3f73b9;
+  color: white;
+}
+
+.kategori-table th {
+  padding: 14px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.kategori-table td {
+  padding: 14px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+
+.kategori-table tbody tr:hover {
+  background: #f9fbff;
+}
+
+.table-img {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.nama-cell {
+  font-weight: 500;
+}
+
+.aksi-cell {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.btn-edit {
+  background: #3f73b9;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-delete {
+  background: #e74c3c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-edit:hover {
+  background: #2f5fa3;
+}
+
+.btn-delete:hover {
+  background: #c0392b;
+}
